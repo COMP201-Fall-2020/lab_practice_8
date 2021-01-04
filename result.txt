@@ -1,0 +1,16 @@
+
+
+
+
+
+1)
+     a)
+     b)improved_matrixProd =>        , naive_matrixProd => 
+     c)improved_matrixProd =>         , naive_matrixProd =>
+
+2)   8*8 blocks=>     , 32*32  blocks=>
+
+
+
+3) 
+
